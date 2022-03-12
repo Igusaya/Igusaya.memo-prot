@@ -2,4 +2,4 @@
 技術ブログのフロントエンド部分  
 Next.jsで作成
 
-[プロジェクト作成](./doc/create_project.md)
+[プロジェクト作成](./doc/01_create_project.md)
